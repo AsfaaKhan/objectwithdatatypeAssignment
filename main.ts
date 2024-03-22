@@ -29,7 +29,7 @@ interface gradetype
 
 //student information
 
-var studentInfo = {
+var studentInfo :studenttype = {
     Name1 : "Asfaa",
     fName: "Naeem",
     email_id : "akhan@gmail.com",
